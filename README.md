@@ -1,10 +1,8 @@
 # forafa-app
 Forafa merupakan platform forum percakapan pihak kedua untuk keperluan jual beli sebagai reseller atau tangan kedua yang menjual produk digital ke pengguna atau pihak ketiga, untuk keperluan memberikan kode masuk/login kedalam suatu produk digital tanpa melalui reseller atau pihak kedua.
 
-Tentu. Aku buatkan README.md yang cocok untuk repository GitHub, dengan penjelasan konsep, alur pengguna, fitur, teknologi, dan struktur sistem. Aku juga akan menjaga istilah reseller, maker, dan user supaya konsep tangan kedua yang kamu maksud tetap jelas.
-
-# Forafa App
 Forafa App adalah platform forum percakapan sementara yang dibuat untuk membantu reseller produk digital menghubungkan pengguna dengan maker atau penyedia produk digital secara langsung, khususnya ketika pengguna membutuhkan kode verifikasi, kode login, atau kode akses.
+
 Forafa berperan sebagai **pihak ketiga berbasis forum** yang mempertemukan User dan Maker tanpa memperlihatkan identitas satu sama lain.
 ## Konsep
 Dalam transaksi produk digital, terdapat tiga pihak:
